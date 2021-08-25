@@ -1,6 +1,6 @@
 # Spring_board
 
-주제 : Spring Boot(STS), Hibernate를 활용해 게시판 구현
+주제 : Spring boot(STS), Hibernate를 활용해 게시판 구현
 
 개발자 : 권혁규
 
